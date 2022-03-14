@@ -3,7 +3,7 @@
   "author": "stagas",
   "short": "stagas/with-events",
   "description": "extends dispatchEvent for custom elements enabling onxxx prop and inline attribute eventhandlers",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
